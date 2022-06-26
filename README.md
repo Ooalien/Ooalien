@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![abayar's 42 stats](https://badge.mediaplus.ma/binary/abayar)](https://github.com/oakoudad/badge42)
 <!--
 **Ooalien/Ooalien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
