@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![abayar's 42 stats](https://badge.mediaplus.ma/binary/abayar)](https://github.com/oakoudad/badge42)
 <!--
